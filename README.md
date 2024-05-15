@@ -1,4 +1,4 @@
-# -Chicago-Crime-Analysis-with-Machine-Learning-and-Geospatial-Insights
+# Chicago-Crime-Analysis-with-Machine-Learning-and-Geospatial-Insights
 
 Crime is a significant challenge in Chicago, impacting the safety and well-being of its residents. This research project aims to leverage the power of data analysis to gain valuable insights into crime patterns across the city. By understanding how crime varies across different areas, times of year, and even days of the week, we can inform the development of more effective crime prevention strategies.
 
